@@ -1,4 +1,7 @@
-## CVPR 2022 [Paper](https://arxiv.org/abs/2204.01715)
+## CVPR 2022 Paper
+___
+
+arXiv [link](https://arxiv.org/abs/2204.01715)
 
 ### Authors
 Jason (Jinquan) Dai, Ding Ding, Dongjie Shi, Shengsheng Huang, Jiao Wang, Xin Qiu, Kai Huang, Guoqiong Song, Yang Wang, Yiquan Gong, Jiaming Song, Shan Yu, Le Zheng, Yina Chen, Junwei Deng and Ge Song
@@ -12,5 +15,7 @@ BigDL and Analytics Zoo projects); using BigDL 2.0, users can simply build conve
 
 
 ## CVPR 2022 Demos
+___
+
 Please find a collection of [BigDL notebooks](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/notebooks.html) that can be directly opened and run in Colab
 
