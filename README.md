@@ -13,4 +13,5 @@ BigDL and Analytics Zoo projects); using BigDL 2.0, users can simply build conve
 ## CVPR 2022 Demos
 ___
 - Online demo at [Hugging Face Spaces](https://huggingface.co/spaces/CVPR/BigDL-Nano_inference)
+- [Notebooks](demos/FastFace) demostrating accelerations for PyTorch Lightning programings using BigDL-Nano
 - A collection of [BigDL notebooks](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/notebooks.html) that can be directly opened and run in Colab
