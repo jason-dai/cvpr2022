@@ -1,6 +1,6 @@
-## CVPR 2022 Paper
+## CVPR 2022 Demo Track
 ___
-
+### Paper
 arXiv [link](https://arxiv.org/abs/2204.01715)
 
 ### Abstract
@@ -10,7 +10,7 @@ steps for the data scientists to fully take advantage of the available hardware 
 BigDL and Analytics Zoo projects); using BigDL 2.0, users can simply build conventional Python notebooks on their laptops (with possible AutoML support), which can then be transparently accelerated on a single node (with up-to 9.6x speedup in our experiments), and seamlessly scaled out to a large cluster (across several hundreds servers in real-world use cases). BigDL 2.0 has already been adopted by many real-world users (such as Mastercard, Burger King, Inspur, etc.) in production.
 
 
-## CVPR 2022 Demos
+## Demos
 ___
 - **Online demo** at [Hugging Face Spaces](https://huggingface.co/spaces/CVPR/BigDL-Nano_inference) 
 
